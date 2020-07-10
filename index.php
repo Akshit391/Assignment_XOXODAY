@@ -1,3 +1,3 @@
 <?php
- include_once ("bootstrap.html");
+ include_once ("index.html");
  ?>
